@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi I'm Agustin 👋
 
-<!--
-**Vueltero/Vueltero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/agustin-vuelta-10510b23b/](https://www.linkedin.com/in/agustin-vuelta-10510b23b/))](https://www.linkedin.com/in/agustin-vuelta-10510b23b/)
+[![Website Badge](https://img.shields.io/badge/-CV-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.imian.com.ar/cv/)](https://www.imian.com.ar/cv/)
+[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vueltaagustin@gmail.com)](mailto:vueltaagustin@gmail.com)
 
-Here are some ideas to get you started:
+Welcome to my profile! I'm a Unity Game Developer with published games for [desktop](https://itch.io/profile/vueltero) and [Google Play](https://play.google.com/store/apps/dev?id=7486437188920833154). Skilled using Unity and C# with 3+ years of experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working at [Odaclick Game Studio](https://www.odaclick.com/en), and have previously worked at [Global Training Technology](https://globaltrainingtechnology.com/). Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/agustin-vuelta-10510b23b/)!
+
+
+
+* * *
+
+<div>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Vueltero&theme=highcontrast&exclude_days=Sun%2CSat&date_format=M%20j%5B%2C%20Y%5D" />
+  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vueltero&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vueltero&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&layout=compact" />
+</div>
+
+<!-- * * * -->
+  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vueltero&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" /> -->
