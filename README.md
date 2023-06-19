@@ -8,15 +8,12 @@ Welcome to my profile! I'm a Unity Game Developer with published games for [desk
 
 I'm currently working at [Odaclick Game Studio](https://www.odaclick.com/en), and have previously worked at [Global Training Technology](https://globaltrainingtechnology.com/). Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/agustin-vuelta-10510b23b/)!
 
-
-
 * * *
 
 <div>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Vueltero&theme=highcontrast&exclude_days=Sun%2CSat&date_format=M%20j%5B%2C%20Y%5D" />
   <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vueltero&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vueltero&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&layout=compact" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vueltero&theme=highcontrast" /> </a>
+  <p align="center"> <a href="https://github.com/Vueltero"> <img src="https://komarev.com/ghpvc/?username=Vueltero&color=blue&style=plastic)" /> </a> </p>
 </div>
-
-<!-- * * * -->
-  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vueltero&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" /> -->
