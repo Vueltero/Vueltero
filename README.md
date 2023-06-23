@@ -15,5 +15,14 @@ I'm currently working at [Odaclick Game Studio](https://www.odaclick.com/en), an
   <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vueltero&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vueltero&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&layout=compact" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vueltero&theme=highcontrast" /> </a>
-  <p align="center"> <a href="https://github.com/Vueltero"> <img src="https://komarev.com/ghpvc/?username=Vueltero&color=blue&style=plastic)" /> </a> </p>
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vueltero/Vueltero/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vueltero/Vueltero/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vueltero/Vueltero/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+<p align="center"> <a href="https://github.com/Vueltero"> <img src="https://komarev.com/ghpvc/?username=Vueltero&color=blue&style=plastic)" /> </a> </p>
