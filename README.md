@@ -17,12 +17,10 @@ I'm currently working at [Odaclick Game Studio](https://www.odaclick.com/en), an
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vueltero&theme=highcontrast" /> </a>
 </div>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vueltero/Vueltero/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vueltero/Vueltero/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vueltero/Vueltero/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 <p align="center"> <a href="https://github.com/Vueltero"> <img src="https://komarev.com/ghpvc/?username=Vueltero&color=blue&style=plastic)" /> </a> </p>
