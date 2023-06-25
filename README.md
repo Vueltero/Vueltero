@@ -11,10 +11,10 @@ I'm currently working at [Odaclick Game Studio](https://www.odaclick.com/en), an
 * * *
 
 <div>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Vueltero&theme=highcontrast&exclude_days=Sun%2CSat&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="470" src="http://github-readme-streak-stats.herokuapp.com?user=Vueltero&theme=highcontrast&exclude_days=Sun%2CSat&date_format=M%20j%5B%2C%20Y%5D" />
   <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vueltero&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" /> -->
-  <img height="194" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vueltero&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&layout=compact" />
-  <img width="855" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vueltero&theme=highcontrast" /> </a>
+  <img height="184" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vueltero&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&layout=compact" />
+  <img height="190" width="1000" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vueltero&theme=highcontrast" /> </a>
 </div>
 
 <picture>
