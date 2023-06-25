@@ -13,14 +13,15 @@ I'm currently working at [Odaclick Game Studio](https://www.odaclick.com/en), an
 <div>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Vueltero&theme=highcontrast&exclude_days=Sun%2CSat&date_format=M%20j%5B%2C%20Y%5D" />
   <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vueltero&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vueltero&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&layout=compact" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vueltero&theme=highcontrast" /> </a>
+  <img height="194" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vueltero&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&layout=compact" />
+  <img width="855" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vueltero&theme=highcontrast" /> </a>
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vueltero/Vueltero/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vueltero/Vueltero/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vueltero/Vueltero/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Vueltero/Vueltero/blob/main/gcgsa/snk06-24-23.svg">
 </picture>
+
+<br>
+<br>
 
 <p align="center"> <a href="https://github.com/Vueltero"> <img src="https://komarev.com/ghpvc/?username=Vueltero&color=blue&style=plastic)" /> </a> </p>
