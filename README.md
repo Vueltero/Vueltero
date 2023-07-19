@@ -18,7 +18,7 @@ I'm currently working at [Odaclick Game Studio](https://www.odaclick.com/en), an
 </div>
 
 <picture>
-  <img alt="github contribution grid snake animation" src="https://github.com/Vueltero/Vueltero/blob/main/gcgsa/snk07-01-23.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Vueltero/Vueltero/blob/main/gcgsa/snk.svg">
 </picture>
 
 <br>
