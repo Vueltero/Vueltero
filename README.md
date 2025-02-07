@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/-CV-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.imian.com.ar/cv/)](https://www.imian.com.ar/cv/)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vueltaagustin@gmail.com)](mailto:vueltaagustin@gmail.com)
 
-Welcome to my profile! I'm a semi senior Unity developer with published games for Steam, Google Play & App Store. Skilled using Unity and C# with 5 years of experience.
+Welcome to my profile! I'm a senior Unity developer with published games for Steam, Google Play & App Store. Skilled using Unity and C# with 5 years of experience.
 
 I'm currently working at [Odaclick Game Studio](https://www.odaclick.com/en), and have previously worked at [Global Training Technology](https://globaltrainingtechnology.com/). Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/agustin-vuelta-10510b23b/)!
 
