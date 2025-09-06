@@ -4,7 +4,13 @@
 [![Website Badge](https://img.shields.io/badge/-CV-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.imian.com.ar/cv/)](https://www.imian.com.ar/cv/)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vueltaagustin@gmail.com)](mailto:vueltaagustin@gmail.com)
 
-Senior Unity developer with 5+ years of experience shipping games on Steam, Google Play, and the App Store. I specialize on building complex UI systems, backend logic, editor tools, and online integrations with APIs and JSON. Skilled with multiplayer using Photon, Fusion, and experienced in creating scalable, maintainable systems with clean, high-performance code. I enjoy solving tough technical problems and contributing across the full development cycle.
+Senior Unity Developer with 5+ years of experience shipping games on Steam, Google Play, and the App Store, with a strong focus on NFT-based multiplayer mobile games.
+
+I specialize in implementing complex, scalable UI systems and deeply integrated backend features using APIs, JSON, and third-party services. My core strengths lie in crafting high-performance, maintainable architecture and delivering smooth, interactive user experiences that connect seamlessly with web3 technologies.
+
+Skilled in Photon, Fusion, and custom multiplayer solutions, with hands-on experience integrating blockchain APIs, NFT marketplaces, and wallet systems. I'm passionate about solving challenging technical problems and contributing across the entire development cycle, from prototype to live operations.
+
+I also build custom editor tools to streamline workflows and ensure rapid iteration and scalability for live games.
 
 <!-- I'm currently working at [Odaclick Game Studio](https://www.odaclick.com/en), and have previously worked at [Global Training Technology](https://globaltrainingtechnology.com/). Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/agustin-vuelta-10510b23b/)! -->
 
