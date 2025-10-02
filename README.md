@@ -23,9 +23,7 @@ I also build custom editor tools to streamline workflows and ensure rapid iterat
   <img height="190" width="1000" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vueltero&theme=highcontrast" /> </a>
 </div>
 
-<picture>
-  <img alt="github contribution grid snake animation" src="https://github.com/Vueltero/Vueltero/blob/main/gcgsa/snk.svg">
-</picture>
+![snake gif](https://github.com/Vueltero/Vueltero/blob/output/github-snake-dark.svg)
 
 <br>
 <br>
