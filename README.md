@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/-CV-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.imian.com.ar/cv/)](https://www.imian.com.ar/cv/)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vueltaagustin@gmail.com)](mailto:vueltaagustin@gmail.com)
 
-Senior Unity Developer with 5+ years of experience shipping games on Steam, Google Play, and the App Store, with a strong focus on NFT-based multiplayer mobile games.
+Senior Unity Developer with 6 years of experience shipping games on Steam, Google Play, and the App Store, with a strong focus on NFT-based multiplayer mobile games.
 
 I specialize in implementing complex, scalable UI systems and deeply integrated backend features using APIs, JSON, and third-party services. My core strengths lie in crafting high-performance, maintainable architecture and delivering smooth, interactive user experiences that connect seamlessly with web3 technologies.
 
