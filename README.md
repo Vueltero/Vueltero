@@ -1,16 +1,17 @@
 # Hi I'm Agustin 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/agustin-vuelta-10510b23b/](https://www.linkedin.com/in/agustin-vuelta-10510b23b/))](https://www.linkedin.com/in/agustin-vuelta-10510b23b/)
+[![Website Badge](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://store.steampowered.com/developer/AgustinVuelta)](https://store.steampowered.com/developer/AgustinVuelta)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=[https://www.linkedin.com/in/agustin-vuelta-10510b23b/](https://www.linkedin.com/in/agustin-vuelta-10510b23b/))](https://www.linkedin.com/in/agustin-vuelta-10510b23b/)
 [![Website Badge](https://img.shields.io/badge/-CV-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.imian.com.ar/cv/)](https://www.imian.com.ar/cv/)
-[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vueltaagustin@gmail.com)](mailto:vueltaagustin@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vueltaagustin@gmail.com)](mailto:vueltaagustin@gmail.com)
 
-Senior Unity Developer with 6+ years of experience shipping games on Steam, Google Play, and the App Store, with a strong focus on NFT-based multiplayer mobile games.
+I'm a Senior Unity Developer with 6+ years of experience shipping games on Steam, Google Play, and the App Store.
 
-I specialize in implementing complex, scalable UI systems and deeply integrated backend features using APIs, JSON, and third-party services. My core strengths lie in crafting high-performance, maintainable architecture and delivering smooth, interactive user experiences that connect seamlessly with web3 technologies.
+I specialize in implementing complex, scalable UI systems and deeply integrated backend features. My core strengths lie in crafting high-performance, maintainable architecture and delivering smooth, interactive user experiences.
 
-Skilled in Photon, Fusion, and custom multiplayer solutions, with hands-on experience integrating blockchain APIs, NFT marketplaces, and wallet systems. I'm passionate about solving challenging technical problems and contributing across the entire development cycle, from prototype to live operations.
+I've worked on projects with teams between 3 and 20+ co-workers, always handling the most difficult tasks, so for me to learn. I also led development on 4 projects, managing teams between 3 and 11 co-workers. Managed the flow of the projects, talked to clients in meetings, organized the daily meetings with the team, checked Github PRs, thought other devs about UI development.
 
-I also build custom editor tools to streamline workflows and ensure rapid iteration and scalability for live games.
+I'm passionate about solving challenging technical problems and contributing across the entire development cycle, from prototype to live operations.
 
 <!-- I'm currently working at [Odaclick Game Studio](https://www.odaclick.com/en), and have previously worked at [Global Training Technology](https://globaltrainingtechnology.com/). Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/agustin-vuelta-10510b23b/)! -->
 
