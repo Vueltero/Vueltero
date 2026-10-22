@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/-CV-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.imian.com.ar/cv/)](https://www.imian.com.ar/cv/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vueltaagustin@gmail.com)](mailto:vueltaagustin@gmail.com)
 
-I'm a Senior Unity Developer with 7 years of experience shipping games on Steam, Google Play, and the App Store.
+I'm a Tech Lead Unity Developer with 7 years of experience shipping games on Steam, Google Play, and the App Store.
 
 I specialize in implementing complex, scalable UI systems and deeply integrated backend features. My core strengths lie in crafting high-performance, maintainable architecture and delivering smooth, interactive user experiences.
 
