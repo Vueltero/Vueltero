@@ -5,13 +5,20 @@
 [![Website Badge](https://img.shields.io/badge/-CV-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.imian.com.ar/cv/)](https://www.imian.com.ar/cv/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vueltaagustin@gmail.com)](mailto:vueltaagustin@gmail.com)
 
-I'm a Tech Lead Unity Developer with 7 years of experience shipping games on Steam, Google Play, and the App Store.
+● Tech Lead Unity Developer with 7 years of experience, from prototypes through live operations.
 
-I specialize in implementing complex, scalable UI systems and deeply integrated backend features. My core strengths lie in crafting high-performance, maintainable architecture and delivering smooth, interactive user experiences.
+● I specialize in complex, scalable UI systems and core gameplay and backend mechanics, with a focus on performance, maintainable architecture, and smooth interactive experiences.
 
-I've worked on projects with teams between 3 and 20+ co-workers, always handling the most difficult tasks, so for me to learn. I also led development on 4 projects, managing teams between 3 and 11 co-workers. Managed the flow of the projects, talked to clients in meetings, organized the daily meetings with the team, checked Github PRs, thought other devs about UI development.
+● I enjoy solving difficult technical problems and contributing across the full development cycle. I've shipped games on Steam, Google Play, the App Store, and consoles.
 
-I'm passionate about solving challenging technical problems and contributing across the entire development cycle, from prototype to live operations.
+● Based in Buenos Aires, Argentina, and comfortable working across any time zone.
+
+● In my free time, I develop indie games: Behind the Sword (Steam) and Light Up (Google Play) are released; I'm also finishing a new mobile game and a space sci-fi RPG for PC/Steam.
+
+- CV: https://www.imian.com.ar/cv/
+- Linkedin: https://www.linkedin.com/in/agustin-vuelta-10510b23b
+- Steam: https://store.steampowered.com/developer/AgustinVuelta
+- Google Play: https://play.google.com/store/apps/developer?id=Vuelta+Agustin
 
 <!-- I'm currently working at [Odaclick Game Studio](https://www.odaclick.com/en), and have previously worked at [Global Training Technology](https://globaltrainingtechnology.com/). Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/agustin-vuelta-10510b23b/)! -->
 
